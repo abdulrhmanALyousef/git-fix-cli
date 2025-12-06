@@ -34,9 +34,9 @@ This will generate:
         
 ## Usage
 Now you can run QuickFix from any directory:
-
+```
 java QuickFix <message>
-
+```
 This will execute:
 ```
 git add .
