@@ -1,7 +1,7 @@
 # git-fix-cli
 ## introduction
 
-QuickFix is a tiny Java command-line helper that automates the common Git workflow for fast "fix bug" commits.
+QuickFix is a  Java command-line helper that automates the common Git workflow for fast "fix bug" commits.
 
 Instead of running three commands:
 
